@@ -151,7 +151,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/vendor/lib/libloc_api_v02.so:system/vendor/lib/libloc_api_v02.so \
     vendor/lge/v500/proprietary/vendor/lib/libloc_ds_api.so:system/vendor/lib/libloc_ds_api.so
 
-# Graphics (qcom-24May16)
+# Graphics (qcom-28June16)
 PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     vendor/lge/v500/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
