@@ -25,7 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v500/proprietary/vendor/bin/thermald:system/vendor/bin/thermald \
     vendor/lge/v500/proprietary/vendor/lib/hw/camera.vendor.msm8960.so:system/vendor/lib/hw/camera.vendor.msm8960.so \
     vendor/lge/v500/proprietary/vendor/lib/hw/flp.msm8960.so:system/vendor/lib/hw/flp.msm8960.so \
-    vendor/lge/v500/proprietary/vendor/lib/hw/sensors.msm8960.so:system/vendor/lib/hw/sensors.msm8960.so \
+    vendor/lge/v500/proprietary/vendor/lib/sensors.gpad83.so:system/vendor/lib/sensors.gpad83.so \
     vendor/lge/v500/proprietary/vendor/lib/libAKM.so:system/vendor/lib/libAKM.so \
     vendor/lge/v500/proprietary/vendor/lib/libHDR.so:system/vendor/lib/libHDR.so \
     vendor/lge/v500/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
